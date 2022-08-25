@@ -1,4 +1,4 @@
-- 👋<b> Hi, I’m @kishanknows
+  <b> <h2>👋Hi, I’m @kishanknows</h2>
 - 👀 I’m interested in machine learning and app development.
 - 🌱 I’m currently doing specialization in machine learning.
 - 💞️ I’m looking to collaborate on projects involving machine and deep learning.I would also like to collaborate in flutter projects.
