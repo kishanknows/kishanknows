@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kishanknows
+- 👋<b> Hi, I’m @kishanknows
 - 👀 I’m interested in machine learning and app development.
 - 🌱 I’m currently doing specialization in machine learning.
 - 💞️ I’m looking to collaborate on projects involving machine and deep learning.I would also like to collaborate in flutter projects.
-- 📫 You can email me at: kishanknows@gmail.com
+- 📫 You can email me at: kishanknows@gmail.com</b>
 
 <!---
 kishanknows/kishanknows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
