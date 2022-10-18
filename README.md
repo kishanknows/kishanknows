@@ -1,6 +1,6 @@
   ### Hello, I'm KISHAN <img src="https://media.giphy.com/media/KyCKg4Z3rmyrXMUNuk/source.gif" width="40"></h2>
 <img align='right' width="200">
-<p><em>Joint PhD funding at <a href="http://univ-larochelle.fr/">University of La Rochelle</a>  and <a href="https://www.ijs.si/ijsw/JSI">Jožef Stefan Institute</a>.
+<p><em>3rd year undergrad at <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi</a>.
 </em></p>
 
 #### 🌐 Socials
