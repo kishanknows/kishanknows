@@ -5,16 +5,13 @@
 
 #### 🌐 Socials
 <!-- [![GitHub honghahnh](https://img.shields.io/github/followers/honghanhh?label=follow&style=social)](https://github.com/honghanhh) -->
-[![Linkedin: hognhanhh](https://img.shields.io/badge/-HongHanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/hồng-hạnh-0b886212a/)](https://www.linkedin.com/in/h%E1%BB%93ng-h%E1%BA%A1nh-0b886212a/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hanh.blaow/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hg.h.a.n.h/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCgyBpo_mrzZYYpX37y1LPhA) 
+[![Linkedin: kishanknows](https://img.shields.io/badge/-kishanknows-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanknows/)](https://www.linkedin.com/in/kishanknows/)
 
 
  #### 💫About Me :
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Just a data enthusiast who is wandering around github 👋👋👋
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 2022 Goals: Let's make weird ideas come true 🤣🤣🤣
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Fun facts: I am a food lover and travelaholic 👋👋👋
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Waiting for my B.tech degree👨‍🎓
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Don't know when to sleep🙆‍♂️
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Will drink Tea and/or Dance😪
 
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
