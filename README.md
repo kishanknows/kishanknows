@@ -6,6 +6,7 @@
 #### 🌐 Socials
 <!-- [![GitHub honghahnh](https://img.shields.io/github/followers/honghanhh?label=follow&style=social)](https://github.com/honghanhh) -->
 [![Linkedin: kishanknows](https://img.shields.io/badge/-kishanknows-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanknows/)](https://www.linkedin.com/in/kishanknows/)
+[![Twitter: kishanknows](https://img.shields.io/badge/-kishanknows-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kishanknows)](https://twitter.com/kishanknows)
 
 
  #### 💫About Me :
