@@ -1,6 +1,6 @@
   ### Hello, I'm KISHAN
 <img align='right' width="200">
-<p><em>3rd year undergrad at <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi</a>.
+<p><em>4th year undergrad at <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi</a>.
 </em></p>
 
 #### 🌐 Socials
