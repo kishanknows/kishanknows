@@ -8,12 +8,6 @@
 [![Linkedin: kishanknows](https://img.shields.io/badge/-kishanknows-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanknows/)](https://www.linkedin.com/in/kishanknows/)
 [![Twitter: kishanknows](https://img.shields.io/badge/-kishanknows-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kishanknows)](https://twitter.com/kishanknows)
 
-
- #### 💫About Me :
--  Waiting for my B.tech degree👨‍🎓
--  Looking for an open source app to contribute👀
--  Tea >>>>> coffee
-
 #### 💻 Tech Stack
 ![react](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=React)
 ![react native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=React)
