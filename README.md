@@ -1,12 +1,5 @@
   ### Hello, I'm KISHAN
 <img align='right' width="200">
-<p><em>4th year undergrad at <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi</a>.
-</em></p>
-
-#### 🌐 Socials
-<!-- [![GitHub honghahnh](https://img.shields.io/github/followers/honghanhh?label=follow&style=social)](https://github.com/honghanhh) -->
-[![Linkedin: kishanknows](https://img.shields.io/badge/-kishanknows-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanknows/)](https://www.linkedin.com/in/kishanknows/)
-[![Twitter: kishanknows](https://img.shields.io/badge/-kishanknows-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kishanknows)](https://twitter.com/kishanknows)
 
 #### 💻 Tech Stack
 ![react](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=React)
