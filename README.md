@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working as an iOS Developer<br>I'm currently learning backend development with golan
+Hi I'm Kishan
+Currently working as an iOS Developer
+Learning backend development with golang
 
 
 ## 🌐 Socials:
